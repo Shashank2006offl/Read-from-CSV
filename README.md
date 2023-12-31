@@ -28,8 +28,14 @@ print("Columns",len(f.axes[1]))
 ```
 ## OUTPUT:
 Spreadsheet
+
+
 ![image](https://github.com/ArchanaSharikalHarinarayanan/Read-from-CSV/assets/147140026/7bfd98b1-1f53-4f07-8491-c80b84b02fce)
+
+
 output
+
+
 ![image](https://github.com/ArchanaSharikalHarinarayanan/Read-from-CSV/assets/147140026/a81a861d-3b9e-4fcb-a370-0d561e3adebc)
 
 
